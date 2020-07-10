@@ -1,0 +1,26 @@
+body{
+    background-color: aqua !important;
+    text-align: center !important;
+    color: blanchedalmond;
+
+
+}
+h1{
+    color: black;
+    display: inline-block;
+    width: 100px;
+    background-color: blanchedalmond;
+}
+.badge badge-pill badge-dark{
+    width: 300px !important;
+    height: 300px !important;
+    
+}
+.m{
+    background-color: aqua !important;
+}
+#min,#sec,#msec{
+    background-color: aqua !important;
+    border-radius: 5px !important;
+    border: 1px solid black;
+}
